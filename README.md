@@ -2,8 +2,9 @@
 
 #created by Souvik Kar
  
-**Top 50 OOPs Interview Questions & Answers
-**
+**Top 50 OOPs Interview Questions & Answers**
+
+
 **1) What is OOPS?**
 OOPS is abbreviated as Object Oriented Programming system in which programs are
 considered as a collection of objects. Each object is nothing but an instance of a class.
